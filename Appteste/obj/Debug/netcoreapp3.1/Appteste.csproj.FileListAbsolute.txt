@@ -1192,3 +1192,4 @@ C:\Users\02471\Desktop\Inacio\Instituicoes-app\Appteste\obj\Debug\netcoreapp3.1\
 C:\Users\02471\Desktop\Inacio\Instituicoes-app\Appteste\obj\Debug\netcoreapp3.1\Appteste.pdb
 C:\Users\02471\Desktop\Inacio\Instituicoes-app\Appteste\obj\Debug\netcoreapp3.1\Appteste.genruntimeconfig.cache
 >>>>>>> 283c661519c82ec299bcf3ad7beb54bb5ba1f774
+C:\Repositorios\AppInstituicao\Appteste\obj\Debug\netcoreapp3.1\Razor\Views\Instituicao\Create.cshtml.g.cs

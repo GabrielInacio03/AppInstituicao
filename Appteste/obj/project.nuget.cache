@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "9MR6n69f5GgxKrhaxwgvb/ooIImEg5tfPFc3eWKWKvOMtdFP/4KxAd50LOo4oohbVvRH70aVgjtAq7g6NpQu8w==",
   "success": true,
   "projectFilePath": "C:\\Repositorios\\AppInstituicao\\Appteste\\Appteste.csproj",
-=======
-  "dgSpecHash": "x7o06M11xfINM2oLFulnu6rTb0c9qyuufP/zi7nUhmdglTPCki/j4SllkiNx0T/7muIdIXrYzT4D+FgEdLyRpw==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\02471\\Desktop\\Inacio\\Instituicoes-app\\Appteste\\Appteste.csproj",
->>>>>>> 283c661519c82ec299bcf3ad7beb54bb5ba1f774
   "expectedPackageFiles": [
     "C:\\Users\\Inacio\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Inacio\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.13\\microsoft.aspnetcore.mvc.razor.extensions.3.1.13.nupkg.sha512",
@@ -122,5 +116,12 @@
     "C:\\Users\\Inacio\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Inacio\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache C:\\Repositorios\\AppInstituicao\\Appteste\\obj\\project.nuget.cache: Invalid property identifier character: . Path 'version', line 3, position 0."
+    }
+  ]
 }
