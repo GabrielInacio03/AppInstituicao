@@ -6204,11 +6204,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Repositorios\\AppInstituicao\\Appteste\\Appteste.csproj",
       "projectName": "Appteste",
       "projectPath": "C:\\Repositorios\\AppInstituicao\\Appteste\\Appteste.csproj",
       "packagesPath": "C:\\Users\\Inacio\\.nuget\\packages\\",
       "outputPath": "C:\\Repositorios\\AppInstituicao\\Appteste\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\02471\\Desktop\\Inacio\\Instituicoes-app\\Appteste\\Appteste.csproj",
+      "projectName": "Appteste",
+      "projectPath": "C:\\Users\\02471\\Desktop\\Inacio\\Instituicoes-app\\Appteste\\Appteste.csproj",
+      "packagesPath": "C:\\Users\\02471\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\02471\\Desktop\\Inacio\\Instituicoes-app\\Appteste\\obj\\",
+>>>>>>> 283c661519c82ec299bcf3ad7beb54bb5ba1f774
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Inacio\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -47,6 +47,9 @@ namespace Appteste.Controllers
         {       
             return View(instituicoes);
         }
-        
+        public IActionResult Create()
+        {
+            return View();
+        }
     }
 }
