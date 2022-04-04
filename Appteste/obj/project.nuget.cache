@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "93+wbSfKU2yL410LkXefSwyVXQ2tbyf3meYm17qB2xVZ61GAGt37v3690r/2TEB2CUcMXLuSFi9HyzUW2t8XNQ==",
+  "dgSpecHash": "x7o06M11xfINM2oLFulnu6rTb0c9qyuufP/zi7nUhmdglTPCki/j4SllkiNx0T/7muIdIXrYzT4D+FgEdLyRpw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\02471\\Desktop\\Inacio\\Appteste\\Appteste\\Appteste.csproj",
+  "projectFilePath": "C:\\Users\\02471\\Desktop\\Inacio\\Instituicoes-app\\Appteste\\Appteste.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\02471\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\02471\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.13\\microsoft.aspnetcore.mvc.razor.extensions.3.1.13.nupkg.sha512",

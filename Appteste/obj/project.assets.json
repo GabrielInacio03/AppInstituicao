@@ -6205,11 +6205,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\02471\\Desktop\\Inacio\\Appteste\\Appteste\\Appteste.csproj",
+      "projectUniqueName": "C:\\Users\\02471\\Desktop\\Inacio\\Instituicoes-app\\Appteste\\Appteste.csproj",
       "projectName": "Appteste",
-      "projectPath": "C:\\Users\\02471\\Desktop\\Inacio\\Appteste\\Appteste\\Appteste.csproj",
+      "projectPath": "C:\\Users\\02471\\Desktop\\Inacio\\Instituicoes-app\\Appteste\\Appteste.csproj",
       "packagesPath": "C:\\Users\\02471\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\02471\\Desktop\\Inacio\\Appteste\\Appteste\\obj\\",
+      "outputPath": "C:\\Users\\02471\\Desktop\\Inacio\\Instituicoes-app\\Appteste\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
